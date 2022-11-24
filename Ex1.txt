@@ -1,0 +1,64 @@
+<html>
+  <head>
+    <title>My Page<\title>
+  <\head>
+  <body>
+    <h1>Welcome to the Kotlin course</h1>
+    <div>
+      <p>Kotlin is</p>
+      <ol>
+        <li>
+          <h3>General-purpose programming language</h3>
+          <ul>
+            <li>
+              Backend, Mobile, Stand-Alone, Web, ...
+            </li>
+          </ul>
+        </li>
+        <li>
+          <h3>Modern, multi-paradigm</h3>
+          <ul>
+            <li>
+              Object-oriented, functional programming (functions as first-class citizens, …), etc.
+            </li>
+            <li>
+              Statically typed but automatically inferred types
+            </li>
+          </ul>
+        </li>
+        <li>
+          <h3>Emphasis on conciseness / expressiveness / practicality</h3>
+          <ul>
+            <li>
+              Goodbye Java boilerplate code (getter methods, setter methods, final, etc.)
+            </li>
+            <li>
+              Common tasks should be short and easy
+            </li>
+            <li>
+              Mistakes should be caught as early as possible
+            </li>
+            <li>
+              But no cryptic operators as in Scala
+            </li>
+          </ul>
+        </li>
+        <li>
+          <h3>100% interoperable with Java</h3>
+          <ul>
+            <li>
+              You have a Java project? Make it a Java/Kotlin project in minutes with 100% interop
+            </li>
+            <li>
+              Kotlin-to-Java as well as Java-to-Kotlin calls
+            </li>
+            <li>
+              For example, Kotlin reuses Java’s existing standard library (ArrayList, etc.) and extends it with extension functions (opposed to, e.g., Scala that uses its own list implementations)
+            </li>
+          </ul>
+        </li>
+      </ol>
+    </div>
+  <\body>
+<\html>
+
